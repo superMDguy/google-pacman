@@ -1,6 +1,6 @@
 Fork of livingston/google-pacman.
 
-##Modifications:
+## Modifications:
 - 10 lives 
 - Increased speed 
 - Color changes 
@@ -9,7 +9,7 @@ Fork of livingston/google-pacman.
 
 Play it at http://supermdguy.neocities.org/pacman/PAC-MAN.html
 
-##Original Readme:
+## Original Readme:
 "Google's Homepage celebrating the 30th Birthday of PAC-MAN
 
 Code taken from http://www.google.com/ on 22nd May 2010
