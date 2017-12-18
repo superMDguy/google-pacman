@@ -1,13 +1,9 @@
-Fork of livingston/google-pacman.
-
 ## Modifications:
 - 10 lives 
 - Increased speed 
 - Color changes 
 - Slower ghosts 
 - 1000 point bonus on start
-
-Play it at http://supermdguy.neocities.org/pacman/PAC-MAN.html
 
 ## Original Readme:
 "Google's Homepage celebrating the 30th Birthday of PAC-MAN
